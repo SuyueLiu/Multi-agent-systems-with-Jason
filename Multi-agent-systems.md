@@ -29,7 +29,7 @@ Which expresses a particular **property** - that of being *tall*  - of an object
 
 ​	`likes(john, music)`
 
-![截屏2020-05-21 下午4.23.09](/Users/aaron/Library/Application Support/typora-user-images/截屏2020-05-21 下午4.23.09.png)
+![basis](https://github.com/SuyueLiu/Multi-agent-systems-with-Jason/blob/master/basis.PNG)
 
 * Atom: any symbol starts with a lowercase letter, which is used to represent particular individuals or objects. They are equivalent of 'constant' in the first-order logic.
 * Logical variable: a symbol starts with an uppercase letter.
@@ -112,7 +112,7 @@ It is often the case that a context is simply a conjunction of **default literal
 * A default literal is a literal which may optionally have another type of negation, known in logic programming as *default negation*, which is denoted by the **not** operator.
 * Any literal appearing in the context is to be checked against the agent's belief base.
 
-![截屏2020-05-29 上午10.23.32](/Users/aaron/Library/Application Support/typora-user-images/截屏2020-05-29 上午10.23.32.png)
+![conjunction](https://github.com/SuyueLiu/Multi-agent-systems-with-Jason/blob/master/conjunction.PNG)
 
 ```
 +!G[source(baddy)] : true <- true.
