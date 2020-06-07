@@ -192,7 +192,7 @@ The label itself does not have to be a simple term such as 'label', it can be ha
 
 ## Example 
 
-A domestic robot has the goal of serving beer to its owner. Its mission is quite simple, it just receives some beer requests from the owner, goes to the fridge, takes out a bottle of beer, and brings it back to the owner. However, the robot should also be concerned with the beer stock (and eventually order more beer using the supermarket’s home delivery service) and some rules hard-wired into the robot by the Department of Health (in this example this rule defines the limit of daily beer consumption).*
+A [domestic](https://github.com/jason-lang/jason/tree/master/examples/domestic-robot) robot has the goal of serving beer to its owner. Its mission is quite simple, it just receives some beer requests from the owner, goes to the fridge, takes out a bottle of beer, and brings it back to the owner. However, the robot should also be concerned with the beer stock (and eventually order more beer using the supermarket’s home delivery service) and some rules hard-wired into the robot by the Department of Health (in this example this rule defines the limit of daily beer consumption).*
 
 In this system, there are three agents: robot, owner and the supermarket. And the possible perceptions that the agents have are :
 
